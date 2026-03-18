@@ -43,3 +43,5 @@ Expenses are saved in `ExpenseTracker/expenses.csv`:
 Description,Amount,Date
 Lunch,15,2026-03-17
 ```
+
+https://roadmap.sh/projects/expense-tracker
